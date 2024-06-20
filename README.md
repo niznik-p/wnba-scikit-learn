@@ -5,3 +5,16 @@ Credit to https://medium.com/ds3ucsd/clustering-nba-players-python-sklearn-panda
 
 ## Other scikit-learn resources
 Sentiment Analysis: https://github.com/cynthialmy/Sentiment-Analysis-with-Scikit-learn
+
+## Installation
+
+I will make a requirements file later, but here's a list of the packages you will need (for this and for the yelp sentiment analysis):
+
+- matplotlib
+- nltk
+- pandas
+- pytorch
+- scikit-learn
+- seaborn
+- tqdm
+- transformers[torch]
